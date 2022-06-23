@@ -1,0 +1,29 @@
+h1 {
+  font-size: 48px;
+  margin: 12px 0px; /* top/bottom - left/right */
+}
+a {
+  padding: 12px 48px;
+  background-color: rgb(237, 148, 255);
+  color: white;
+  border-radius: 4px;
+  font-size: 24px;
+}
+a:hover {
+  text-decoration: none;
+  background-color: rgb(168, 0, 173);
+  /* color: black; */
+}
+ol {
+  list-style: none;
+  width: 500px;
+  margin: 36px auto 0px auto;
+  padding: 0px;
+}
+
+li {
+  padding: 16px;
+  background-color: rgb(223, 136, 124);
+  border-radius: 6px;
+  margin: 32px;
+}
